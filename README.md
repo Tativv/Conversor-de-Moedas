@@ -1,5 +1,8 @@
 
 <h1 align="center"> Conversor de Moedas</h1>
+<p align="center">
+![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/a4378d38-e8b8-46a0-8b4a-87712a8f64c1)
+</p>
 <hr>
 
 <h4 align="center"> 
@@ -19,7 +22,7 @@
 
 
 # Descrição do Projeto
-![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/a4378d38-e8b8-46a0-8b4a-87712a8f64c1)
+
 
 
 # :hammer: Funcionalidades do projeto
