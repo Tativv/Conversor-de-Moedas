@@ -1,3 +1,5 @@
+
+<h1 align="center"> Conversor de Moedas</h1>
 ![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
 <hr>
 
@@ -8,17 +10,26 @@
 ### Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades do projeto](#funcionalidades-do-projeto)
+* [Funcionalidades do projeto](#Funcionalidades do projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
+* [Pessoa Desenvolvedora do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-#funcionalidades-do-projeto :hammer: Funcionalidades do projeto
+
+
+# :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
+
+  
+# 📁 Acesso ao projeto
+
+
+# 🛠️ Abrir e rodar o projeto
+
+**Apresente as instruções necessárias para abrir e executar o projeto**
