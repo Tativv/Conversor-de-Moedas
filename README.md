@@ -1,6 +1,8 @@
 
 <h1 align="center"> Conversor de Moedas</h1>
-![descrição da imagem]https://github.com/Tativv/Conversor-de-Moedas/blob/main/imgproj.jpeg
+<a href="https://docusaurus.io">
+      <img src="" alt="Conversor">
+    </a>
 <hr>
 
 <h4 align="center"> 
