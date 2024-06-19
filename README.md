@@ -1,6 +1,6 @@
 
 <h1 align="center"> Conversor de Moedas</h1>
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+![descrição da imagem]https://github.com/Tativv/Conversor-de-Moedas/blob/main/imgproj.jpeg
 <hr>
 
 <h4 align="center"> 
