@@ -24,12 +24,24 @@
 
 
 
-#  Funcionalidades do projeto:hammer:
-
+#  Funcionalidades do projeto 🛠️
 - `Funcionalidade 1`: Conversão de Real (BRL) para várias outras moedas, incluindo USD, EUR, GBP, JPY, AUD, CAD, entre outras.
 - `Funcionalidade 2`: Obtenção de taxas de câmbio em tempo real através de uma API.
 - `Funcionalidade 2a`: Histórico de conversões para acompanhar as transações anteriores.
 - `Funcionalidade 3`: Interface de usuário simples através do console.
 
 #  Como Usar 🚀
+- Clone o repositório para o seu ambiente local.
+- Compile e execute o programa.
+- Escolha a moeda de origem e a moeda de destino.
+- Insira o valor a ser convertido.
+- Visualize o resultado da conversão.
+- Opcionalmente, verifique o histórico de conversões realizadas.
 
+# Dependências 📦
+Este projeto depende das seguintes bibliotecas externas:
+- Gson para processamento JSON.
+- Biblioteca de tempo do Java para manipulação de data e hora.
+
+# Contribuições 🤝
+Contribuições são bem-vindas! Se você deseja contribuir para o projeto, sinta-se à vontade para enviar um pull request ou abrir uma issue para discutir melhorias.
