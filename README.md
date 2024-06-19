@@ -19,21 +19,17 @@
 
 # Descrição do Projeto
 
-    <img aling="center" src="https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/a4378d38-e8b8-46a0-8b4a-87712a8f64c1" />
+![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/8e094114-5cb8-4c1e-b922-ca0f5e313591)
 
 
 
 
-# :hammer: Funcionalidades do projeto
+#  Funcionalidades do projeto:hammer:
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Conversão de Real (BRL) para várias outras moedas, incluindo USD, EUR, GBP, JPY, AUD, CAD, entre outras.
+- `Funcionalidade 2`: Obtenção de taxas de câmbio em tempo real através de uma API.
+- `Funcionalidade 2a`: Histórico de conversões para acompanhar as transações anteriores.
+- `Funcionalidade 3`: Interface de usuário simples através do console.
 
-# 📁 Acesso ao projeto
+#  Como Usar 🚀
 
-
-# 🛠️ Abrir e rodar o projeto
-
-**Apresente as instruções necessárias para abrir e executar o projeto**
