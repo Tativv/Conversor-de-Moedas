@@ -1,8 +1,6 @@
 
 <h1 align="center"> Conversor de Moedas</h1>
 
-<hr>
-
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
@@ -21,9 +19,8 @@
 
 # Descrição do Projeto
 
-<p>
-    <img src="https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/a4378d38-e8b8-46a0-8b4a-87712a8f64c1">
-</p>
+    <img aling="center" src="https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/a4378d38-e8b8-46a0-8b4a-87712a8f64c1" />
+
 
 
 
