@@ -5,11 +5,11 @@
 ### Índice 
 
 - **[Descrição do Projeto](#descrição-do-projeto-)**
-- **[Funcionalidades do projeto](#funcionalidades-do-projeto-)**
+- **[Funcionalidades do projeto](#funcionalidades-)**
 - **[Como usar](#como-usar-)**
 - **[Tecnologias utilizadas](#tecnologias-utilizadas-)**
 - **[Pessoas Contribuidoras](#pessoas-contribuidoras-)**
-- **[Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-do-projeto-)**
+- **[Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-)**
 - **[Conclusão](#conclusão-)**
 
 
@@ -18,7 +18,7 @@
 ![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/8e094114-5cb8-4c1e-b922-ca0f5e313591)
 Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um conversor de moedas. O conversor permite que os usuários convertam valores em Real Brasileiro (BRL) para várias outras moedas em tempo real, utilizando taxas de câmbio obtidas através de uma API. Este projeto visa proporcionar uma ferramenta prática e eficiente para conversão de moedas, utilizando conceitos de programação em Java para a manipulação de dados e integração com APIs externas.
 
-# Funcionalidades do projeto 🛠️
+# Funcionalidades 🛠️
 * Conversão de Real (BRL) para várias outras moedas, incluindo USD, EUR, GBP, JPY, AUD, CAD, entre outras.
 * Obtenção de taxas de câmbio em tempo real.
 * Histórico de conversões para acompanhar transações anteriores.
@@ -40,7 +40,7 @@ Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um c
 # Pessoas Contribuidoras 🤝
 Este projeto foi desenvolvido com base no conhecimento adquirido no curso de Java da Alura. Agradeço à equipe da Alura por oferecer um material de alta qualidade e inspirador.
   
-# Pessoa Desenvolvedora do Projeto 👨‍💻
+# Pessoa Desenvolvedora 👨‍💻
 * Tatiana Varona Villavicencio
 
 # Conclusão 📜
