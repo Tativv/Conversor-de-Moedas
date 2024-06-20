@@ -27,7 +27,7 @@ Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um c
 # Como Usar 🚀
 * Clone o repositório para o seu ambiente local.
 * Compile e execute o programa.
-* Escolha a moeda de origem e a moeda de destino.
+* Escolha a moeda de destino.
 * Insira o valor a ser convertido.
 * Visualize o resultado da conversão.
 * Opcionalmente, verifique o histórico de conversões realizadas.
