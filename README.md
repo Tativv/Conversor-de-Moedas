@@ -12,7 +12,7 @@
 
 
 # Descrição do Projeto 🎯
-<h1> Conversor de Moedas</h1>
+ <p font="strong">Conversor de Moedas</p>
 Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um conversor de moedas. O conversor permite que os usuários convertam valores em Real Brasileiro (BRL) para várias outras moedas em tempo real, utilizando taxas de câmbio obtidas através de uma API. Este projeto visa proporcionar uma ferramenta prática e eficiente para conversão de moedas, utilizando conceitos de programação em Java para a manipulação de dados e integração com APIs externas.
 
 # Funcionalidades 🛠️
