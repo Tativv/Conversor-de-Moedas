@@ -24,7 +24,7 @@ Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um c
 * Histórico de conversões para acompanhar transações anteriores.
 * Interface de usuário simples através do console.
 
-#  Como Usar 🚀
+#  Como Usar 
 * Clone o repositório para o seu ambiente local.
 * Compile e execute o programa.
 * Escolha a moeda de origem e a moeda de destino.
@@ -32,7 +32,7 @@ Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um c
 * Visualize o resultado da conversão.
 * Opcionalmente, verifique o histórico de conversões realizadas.
 
-# Tecnologias utilizadas 📦
+# 📦 Tecnologias utilizadas 
 * Java
 * Gson para processamento JSON
 * Biblioteca de tempo do Java para manipulação de data e hora
