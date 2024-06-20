@@ -1,4 +1,4 @@
-<h1 aling="center">Conversor de Moedas</h1>
+<h1 align="center">Conversor de Moedas</h1>
 
 ### Índice 
 
