@@ -1,7 +1,6 @@
 
 <h1 align="center"> Conversor de Moedas</h1>
 
-
 ### Índice 
 
 - **[Descrição do Projeto](#descrição-do-projeto-)**
@@ -11,7 +10,6 @@
 - **[Pessoas Contribuidoras](#pessoas-contribuidoras-)**
 - **[Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-)**
 - **[Conclusão](#conclusão-)**
-
 
 
 # Descrição do Projeto 🎯
