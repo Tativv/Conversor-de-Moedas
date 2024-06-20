@@ -1,4 +1,4 @@
-![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/8e094114-5cb8-4c1e-b922-ca0f5e313591)  
+<h1 aling="center">Conversor de Moedas</h1>
 
 ### Índice 
 
@@ -12,7 +12,7 @@
 
 
 # Descrição do Projeto 🎯
-**CONVERSOR DE MOEDAS**
+![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/8e094114-5cb8-4c1e-b922-ca0f5e313591)  
 <p>Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um conversor de moedas. O conversor permite que os usuários convertam valores em Real Brasileiro (BRL) para várias outras moedas em tempo real, utilizando taxas de câmbio obtidas através de uma API. Este projeto visa proporcionar uma ferramenta prática e eficiente para conversão de moedas, utilizando conceitos de programação em Java para a manipulação de dados e integração com APIs externas.</p>
 
 # Funcionalidades 🛠️
