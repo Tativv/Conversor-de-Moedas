@@ -1,44 +1,87 @@
-<h1 align="center">Conversor de Moedas</h1>
+<h1 align="center">💱 Conversor de Moedas</h1>
 
-### Índice 
+<p align="center">
+Aplicação em Java para conversão de moedas em tempo real, utilizando integração com API externa.
+</p>
 
-- **[Descrição do Projeto](#descrição-do-projeto-)**
-- **[Funcionalidades do projeto](#funcionalidades-)**
-- **[Como usar](#como-usar-)**
-- **[Tecnologias utilizadas](#tecnologias-utilizadas-)**
-- **[Pessoas Contribuidoras](#pessoas-contribuidoras-)**
-- **[Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora-)**
-- **[Conclusão](#conclusão-)**
+---
+
+## 📌 Visão geral
+
+Este projeto consiste em um sistema de conversão de moedas que permite transformar valores em Real Brasileiro (BRL) para diferentes moedas internacionais com base em taxas de câmbio atualizadas.
+
+A aplicação foi desenvolvida com foco em integração com APIs, manipulação de dados e organização lógica em Java.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Conversão de BRL para múltiplas moedas (USD, EUR, GBP, JPY, AUD, CAD, entre outras)  
+- Consumo de API para obtenção de taxas de câmbio em tempo real  
+- Processamento e exibição de dados atualizados  
+- Registro de histórico de conversões  
+- Interface simples via terminal  
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Integration-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Estrutura do projeto
+```
+src/
+├── exceptions/
+└── CurrencyConverter.java
+```
+- `CurrencyConverter.java`: lógica principal da aplicação  
+- `exceptions/`: tratamento de erros e exceções  
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+
+```
+bash
+git clone https://github.com/Tativv/Conversor-de-Moedas.git
+```
+2. Acesse o diretório do projeto
+3. Compile o arquivo:
+```
+bash
+javac src/com/challange/currencyconverter/CurrencyConverter.java
+```
+4. Execute o programa:
+```
+bash
+java com.challange.currencyconverter.CurrencyConverter
+```
+5. Siga as instruções no terminal
+
+---
+🔌 Integração com API
+
+A aplicação consome uma API externa para obter taxas de câmbio atualizadas, garantindo precisão nos cálculos de conversão.
+
+---
+🎯 Objetivo
+
+Aplicar conceitos de programação em Java, integração com APIs e manipulação de dados para construir uma aplicação funcional e organizada.
+
+---
+
+👩‍💻 Autora
+
+Tatiana Varona Villavicencio
 
 
-# Descrição do Projeto 🎯
-![Conversor](https://github.com/Tativv/Conversor-de-Moedas/assets/135656585/8e094114-5cb8-4c1e-b922-ca0f5e313591)  
-<p>Este projeto é um desafio do curso de Java da ONE, desenvolvido para criar um conversor de moedas. O conversor permite que os usuários convertam valores em Real Brasileiro (BRL) para várias outras moedas em tempo real, utilizando taxas de câmbio obtidas através de uma API. Este projeto visa proporcionar uma ferramenta prática e eficiente para conversão de moedas, utilizando conceitos de programação em Java para a manipulação de dados e integração com APIs externas.</p>
 
-# Funcionalidades 🛠️
-* Conversão de Real (BRL) para várias outras moedas, incluindo USD, EUR, GBP, JPY, AUD, CAD, entre outras.
-* Obtenção de taxas de câmbio em tempo real.
-* Histórico de conversões para acompanhar transações anteriores.
-* Interface de usuário simples através do console.
 
-# Como Usar 🚀
-* Clone o repositório para o seu ambiente local.
-* Compile e execute o programa.
-* Escolha a moeda de destino.
-* Insira o valor a ser convertido.
-* Visualize o resultado da conversão.
-* Opcionalmente, verifique o histórico de conversões realizadas.
-
-# Tecnologias utilizadas 📦
-* Java
-* Gson para processamento JSON
-* Biblioteca de tempo do Java para manipulação de data e hora
-
-# Pessoas Contribuidoras 🤝
-Este projeto foi desenvolvido com base no conhecimento adquirido no curso de Java da Alura. Agradeço à equipe da Alura por oferecer um material de alta qualidade e inspirador.
-  
-# Pessoa Desenvolvedora 👨‍💻
-* Tatiana Varona Villavicencio
-
-# Conclusão 📜
-Este projeto é uma ferramenta útil para quem precisa de conversões de moeda rápidas e precisas utilizando taxas de câmbio em tempo real. Contribuições são bem-vindas para melhorar e expandir o projeto.
